@@ -1,7 +1,7 @@
 // Contact details transcribed from the user's visual reference. Confirm before launch.
 export const contact = {
   email: "varelle=@yahoo.com",
-  phone: "+55 (37) 99999-9999",
+  phone: "+55 (37) 99934-4812",
   instagram: "https://www.instagram.com/varelle.studio/",
   whatsapp: (service) =>
     `https://wa.me/5537999344812?text=${encodeURIComponent(service ? `Olá, Varelle! Gostaria de saber mais sobre ${service}.` : "Olá, Varelle! Gostaria de transformar a apresentação do meu imóvel. Podemos conversar?")}`,
