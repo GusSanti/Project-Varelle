@@ -1475,10 +1475,11 @@ footer {
     right: 13px;
   }
   .services-grid {
+    grid-template-columns: 1fr;
     gap: 12px;
   }
   .service-card {
-    padding: 20px 17px;
+    padding: 24px;
   }
   .service-card-top {
     margin-bottom: 24px;
@@ -1487,16 +1488,16 @@ footer {
     width: 23px;
   }
   .service-card h3 {
-    font-size: 21px;
+    font-size: 23px;
     line-height: 1.2;
     margin-bottom: 12px;
   }
   .service-card > p {
-    font-size: 11px;
+    font-size: 13px;
     line-height: 1.75;
   }
   .service-link {
-    font-size: 8px;
+    font-size: 11px;
     gap: 5px;
     padding-top: 14px;
     margin-top: 19px;
